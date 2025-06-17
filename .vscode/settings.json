@@ -1,0 +1,27 @@
+{
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    },
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showColors": false,
+    "editor.suggest.showConstants": false,
+    "editor.suggest.showConstructors": false,
+    "editor.suggest.showCustomcolors": false,
+    "editor.suggest.showFunctions": false,
+    "editor.suggest.showInterfaces": false,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showMethods": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showTypeParameters": false,
+    "editor.suggest.showVariables": false,
+    "editor.suggest.showWords": false,
+    "files.associations": {
+      "unordered_map": "cpp"
+    }
+  }
+  
