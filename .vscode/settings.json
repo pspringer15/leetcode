@@ -21,7 +21,8 @@
     "editor.suggest.showVariables": false,
     "editor.suggest.showWords": false,
     "files.associations": {
-      "unordered_map": "cpp"
+      "unordered_map": "cpp",
+      "ios": "cpp"
     }
   }
   
